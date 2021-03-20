@@ -325,4 +325,7 @@ fabric.properties
 #pyCha
 .idea
 
+# config
+/config.py
 # End of https://www.toptal.com/developers/gitignore/api/python,flask,pycharm
+
